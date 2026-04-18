@@ -12,7 +12,7 @@ import socket
 # CONFIGURATION - MODIFIEZ CES VALEURS SELON VOTRE SERVEUR
 # ============================================================
 
-SERVEUR_DOSSIER    = "/home/UTILISATEUR/serveurs/bedrock/bedrock_server"
+SERVEUR_DOSSIER    = "CHEMIN DU DOSSIER DE VOTRE SERVEUR"
 SERVEUR_EXECUTABLE = "bedrock_server"
 SCREEN_NOM         = "minecraft_bedrock"
 
