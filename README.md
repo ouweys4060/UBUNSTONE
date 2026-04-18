@@ -14,3 +14,8 @@ Un gestionnaire simple de serveur minecraft bedrock pour serveurs ubuntu
 
 -changer 
 "SERVEUR_DOSSIER    = "CHEMIN DU DOSSIER DE VOTRE SERVEUR"
+
+3.lancer le multitool:
+
+lancez le multitool avec la commande 
+"Python3 "chemin de votre fichier/Ubustone.py""
