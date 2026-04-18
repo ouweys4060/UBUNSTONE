@@ -19,3 +19,17 @@ Un gestionnaire simple de serveur minecraft bedrock pour serveurs ubuntu
 
 lancez le multitool avec la commande 
 "Python3 "chemin de votre fichier/Ubustone.py""
+
+# disclaimer!!!!!
+
+ce fichier est un freeware, en l'utilisant, vous acceptez les conditions suivantes:
+-vous n'utiliserez pas ce fichier a des fins illégales
+-il est interdit de revendre ce fichier sans avoir citer les credits
+-vous devez avoir mon autorisation pour modifier le fichier
+
+# me contacter
+
+contactez moi sur:
+-discord ( .torming )
+-reddit ( specialist-resist-24 )
+-telegram ( ouweys4060 )
